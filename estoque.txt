@@ -1,0 +1,2 @@
+Feijao|32|Massas|87
+Banana|2|Frutas|10
